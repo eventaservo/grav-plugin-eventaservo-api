@@ -1,0 +1,40 @@
+#map { height: 500px; }
+
+.leaflet-marker-icon {
+
+}
+
+.leaflet-marker-icon svg {
+    width: 20px;
+    height: 22px;
+    margin-left: -5px;
+    margin-top: -5px;
+}
+
+.leaflet-marker-icon .stelo {
+    fill: #fff;
+}
+
+.greenIcon .pinglo {
+    fill: #00a300;
+}
+
+.redIcon .pinglo {
+    fill: #f00;
+}
+
+.orangeIcon .pinglo {
+    fill: #E3A21A;
+}
+
+.yellowIcon .pinglo {
+    fill: #FFC40D;
+}
+
+.blueIcon .pinglo {
+    fill: #2D89EF;
+}
+
+.event-titolo {
+    font-weight: 400;
+}

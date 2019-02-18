@@ -1,0 +1,20 @@
+{
+  "name": "grav-plugin-eventaservo-api",
+  "version": "1.0.0",
+  "description": "JS fontoj por montri la mapon kaj kalendaron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "exports-loader": "^0.7.0",
+    "fullcalendar": "^3.10.0",
+    "jquery": "^3.3.1",
+    "leaflet": "^1.4.0",
+    "moment": "^2.24.0",
+    "prunecluster": "^2.1.0",
+    "qtip2": "^3.0.3"
+  }
+}

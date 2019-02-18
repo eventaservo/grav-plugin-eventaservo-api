@@ -1,0 +1,24 @@
+eo:
+  PLUGIN_EVENTASERVO_API:
+    API_KEY: Uzantokodo por aliri la eventaservo API
+    API_KEY_HELP: Via uzantokodo (vizitu https://eventaservo.org/users/edit por trovi ĝin)
+    USER_EMAIL: Via retpoŝtadreson
+    USER_EMAIL_HELP: Via retpoŝtadreson, kiu vi uzas por registri en eventaservo
+    URL_FILTERS: Filtroj
+    URL_FILTERS: La URL-filtroj, kiuj enigas la peton al eventaservo (ekz. komenca_dato=1800-01-01&fina_dato=2022-01-31)
+de:
+  PLUGIN_EVENTASERVO_API:
+    API_KEY: Dein eventaservo-API Schlüssel
+    API_KEY_HELP: Dein API-Schlüssel (finde ihn unter https://eventaservo.org/users/edit)
+    USER_EMAIL: Deine E-Mail
+    USER_EMAIL_HELP: Die Mail, mit der du bei eventaservo registriert bist
+    URL_FILTERS: Filter
+    URL_FILTERS: Die URL-Filter, für die Events, die du von eventaservo haben willst (zB. komenca_dato=1800-01-01&fina_dato=2022-01-31)
+en:
+  PLUGIN_EVENTASERVO_API:
+    API_KEY: Your eventaservo-API key
+    API_KEY_HELP: Your eventaservo-API key (visit https://eventaservo.org/users/edit to find it)
+    USER_EMAIL: Your e-mail
+    USER_EMAIL_HELP: The mail, with which you are registered at eventaservo
+    URL_FILTERS: Filters
+    URL_FILTERS: The URL filters, for the events you want to get from eventaservo (ie. komenca_dato=1800-01-01&fina_dato=2022-01-31)
